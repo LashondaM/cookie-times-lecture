@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cookie-times-lecture/static/css/main.a70f5d9a.chunk.css",
+    "main.js": "/cookie-times-lecture/static/js/main.b83e888a.chunk.js",
+    "main.js.map": "/cookie-times-lecture/static/js/main.b83e888a.chunk.js.map",
+    "runtime-main.js": "/cookie-times-lecture/static/js/runtime-main.87e52042.js",
+    "runtime-main.js.map": "/cookie-times-lecture/static/js/runtime-main.87e52042.js.map",
+    "static/js/2.ff157c78.chunk.js": "/cookie-times-lecture/static/js/2.ff157c78.chunk.js",
+    "static/js/2.ff157c78.chunk.js.map": "/cookie-times-lecture/static/js/2.ff157c78.chunk.js.map",
+    "index.html": "/cookie-times-lecture/index.html",
+    "precache-manifest.ad76edca27b171ee404292f1abceacf5.js": "/cookie-times-lecture/precache-manifest.ad76edca27b171ee404292f1abceacf5.js",
+    "service-worker.js": "/cookie-times-lecture/service-worker.js",
+    "static/css/main.a70f5d9a.chunk.css.map": "/cookie-times-lecture/static/css/main.a70f5d9a.chunk.css.map",
+    "static/js/2.ff157c78.chunk.js.LICENSE.txt": "/cookie-times-lecture/static/js/2.ff157c78.chunk.js.LICENSE.txt",
+    "static/media/pokeball.png": "/cookie-times-lecture/static/media/pokeball.f10bf078.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87e52042.js",
+    "static/js/2.ff157c78.chunk.js",
+    "static/css/main.a70f5d9a.chunk.css",
+    "static/js/main.b83e888a.chunk.js"
+  ]
+}
